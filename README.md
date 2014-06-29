@@ -11,9 +11,6 @@ Requirement :
 Usage
 ---
 
-
-And here's some code!
-
 ```ruby
   tv = Thingiverse::Connection.new
   tv.access_token = 'your access token here'
@@ -23,3 +20,4 @@ And here's some code!
   tag = tv.tags().find("customizer")
   service.insertThingsByTag(tag)
 ```
+
