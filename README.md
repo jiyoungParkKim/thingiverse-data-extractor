@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Data extractor 
 =========================
 
@@ -23,3 +24,7 @@ And here's some code!
   tag = tv.tags().find("customizer")
   service.insertThingsByTag(tag)
 ```
+=======
+thingiverse-data-extractor
+==========================
+>>>>>>> eb80091936ae413028a44c9b2b0cbeed78cd94fa
