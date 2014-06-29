@@ -20,5 +20,3 @@ Usage
   tag = tv.tags().find("customizer")
   service.insertThingsByTag(tag)
 ```
-<<<<<<< HEAD
-
